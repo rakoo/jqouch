@@ -1,0 +1,483 @@
+{
+  "dates": [
+    {
+      "date": "2000-11-16T00:00:00",
+      "type": "of document"
+    },
+    {
+      "date": "2000-12-19T00:00:00",
+      "note": "Entry into force Date pub. + 7 See Art 2",
+      "type": "of effect"
+    },
+    {
+      "date": "2013-06-23T00:00:00",
+      "note": "Implic.repealed by 32008R0450",
+      "type": "end of validity"
+    }
+  ],
+  "Classifications": {
+    "Subject matter:": [
+      "Common customs tariff, Internal market, Customs Union"
+    ],
+    "EUROVOC descriptor:": [
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?direct=yes&lang=en&where=EUROVOC:004080&whereihm=EUROVOC:CCT duties",
+        "text": "CCT duties"
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?direct=yes&lang=en&where=EUROVOC:003156&whereihm=EUROVOC:customs regulations",
+        "text": "customs regulations"
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?direct=yes&lang=en&where=EUROVOC:004381&whereihm=EUROVOC:common customs tariff",
+        "text": "common customs tariff"
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?direct=yes&lang=en&where=EUROVOC:003191&whereihm=EUROVOC:Community import",
+        "text": "Community import"
+      }
+    ],
+    "Directory code:": [
+      "02.10.00.00",
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=02*&repihm=02 Customs Union and free movement of goods",
+        "text": "Customs Union and free movement of goods"
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=0210*&repihm=0210 General customs rules",
+        "text": "General customs rules"
+      },
+      "02.10.30.00",
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=02*&repihm=02 Customs Union and free movement of goods",
+        "text": "Customs Union and free movement of goods"
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=0210*&repihm=0210 General customs rules",
+        "text": "General customs rules"
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=021030*&repihm=021030 Definition of declarant",
+        "text": "Definition of declarant"
+      },
+      "02.20.00.00",
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=02*&repihm=02 Customs Union and free movement of goods",
+        "text": "Customs Union and free movement of goods"
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=0220*&repihm=0220 Basic customs instruments",
+        "text": "Basic customs instruments"
+      },
+      "02.30.00.00",
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=02*&repihm=02 Customs Union and free movement of goods",
+        "text": "Customs Union and free movement of goods"
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=0230*&repihm=0230 Application of the Common Customs Tariff",
+        "text": "Application of the Common Customs Tariff"
+      },
+      "02.40.00.00",
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=02*&repihm=02 Customs Union and free movement of goods",
+        "text": "Customs Union and free movement of goods"
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=0240*&repihm=0240 Specific customs rules",
+        "text": "Specific customs rules"
+      }
+    ]
+  },
+  "Relationship between documents": {
+    "Legal basis:": [
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=11997E026",
+        "text": [
+          "11997E026"
+        ]
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=11997E251",
+        "text": [
+          "11997E251"
+        ]
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=11997E133",
+        "text": [
+          "11997E133"
+        ]
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=11997E095",
+        "text": [
+          "11997E095"
+        ]
+      }
+    ],
+    "Treaty:": [
+      "European Community"
+    ],
+    "Instruments cited:": [
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=31996Y1107(01)",
+        "text": "31996Y1107(01)"
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=31999D0468",
+        "text": "31999D0468"
+      }
+    ],
+    "Consolidated versions:": [],
+    "Amended by:": [
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=32000R2700R(02)",
+        "text": [
+          "32000R2700R(02)"
+        ]
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=32000R2700R(01)",
+        "text": [
+          "32000R2700R(01)"
+        ]
+      }
+    ],
+    "Affected by case:": [],
+    "Subsequent related instruments:": [],
+    "Amendment to:": [
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=51998PC0226",
+        "text": [
+          "51998PC0226",
+          "Adoption"
+        ]
+      },
+      {
+        "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=31992R2913",
+        "text": [
+          "31992R2913",
+          "Amendment Replacement Article 115. 4 from 19/12/2000",
+          "Amendment Completion Article 117. C from 19/12/2000",
+          "Amendment Replacement Article 124 from 19/12/2000",
+          "Amendment Replacement Article 131 from 19/12/2000",
+          "Amendment Replacement Article 133. E from 19/12/2000",
+          "Amendment Replacement Article 142 from 19/12/2000",
+          "Amendment Completion Article 153 from 19/12/2000",
+          "Amendment Replacement Article 167. 3 from 19/12/2000",
+          "Amendment Replacement Article 168. 1 from 19/12/2000",
+          "Amendment Addition Article 168 BI from 19/12/2000",
+          "Amendment Replacement Article 212 BI from 19/12/2000",
+          "Amendment Addition Article 215. 4 from 19/12/2000",
+          "Amendment Amendment Article 220. 2 from 19/12/2000",
+          "Amendment Replacement Article 221. 3 from 19/12/2000",
+          "Amendment Addition Article 221. 4 from 19/12/2000",
+          "Amendment Replacement Article 222. 2 from 19/12/2000",
+          "Amendment Replacement Article 247 from 19/12/2000",
+          "Amendment Addition Article 247 BI from 19/12/2000",
+          "Amendment Replacement Article 248 from 19/12/2000",
+          "Amendment Addition Article 248 BI from 19/12/2000",
+          "Amendment Replacement Article 249 from 19/12/2000",
+          "Amendment Replacement Article 35. 1 from 19/12/2000",
+          "Amendment Replacement Article 4. 24 from 19/12/2000",
+          "Amendment Addition Article 77. 2 from 19/12/2000",
+          "Amendment Article 77 DEVIENT Article 77. 1"
+        ]
+      }
+    ]
+  },
+  "title": "Regulation (EC) No 2700/2000 of the European Parliament and of the Council of 16 November 2000 amending Council Regulation (EEC) No 2913/92 establishing the Community Customs Code",
+  "Miscellaneous information": {
+    "Form:": [
+      "Regulation"
+    ],
+    "Author:": [
+      "European Parliament, Council"
+    ],
+    "Addressee:": [],
+    "Additional information:": []
+  },
+  "meta": {
+    "src": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000R2700:EN:NOT",
+    "created": "2012-01-25T19:31:05"
+  },
+  "_id": "4f205879865c0c4f1800002f",
+  "changes": {
+    "2012-01-25T19:31:05": [
+      {
+        "type": "added",
+        "data": [
+          {
+            "date": "2000-11-16T00:00:00",
+            "type": "of document"
+          },
+          {
+            "date": "2000-12-19T00:00:00",
+            "note": "Entry into force Date pub. + 7 See Art 2",
+            "type": "of effect"
+          },
+          {
+            "date": "2013-06-23T00:00:00",
+            "note": "Implic.repealed by 32008R0450",
+            "type": "end of validity"
+          }
+        ],
+        "path": [
+          "dates"
+        ]
+      },
+      {
+        "type": "added",
+        "data": {
+          "Subject matter:": [
+            "Common customs tariff, Internal market, Customs Union"
+          ],
+          "EUROVOC descriptor:": [
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?direct=yes&lang=en&where=EUROVOC:004080&whereihm=EUROVOC:CCT duties",
+              "text": "CCT duties"
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?direct=yes&lang=en&where=EUROVOC:003156&whereihm=EUROVOC:customs regulations",
+              "text": "customs regulations"
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?direct=yes&lang=en&where=EUROVOC:004381&whereihm=EUROVOC:common customs tariff",
+              "text": "common customs tariff"
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?direct=yes&lang=en&where=EUROVOC:003191&whereihm=EUROVOC:Community import",
+              "text": "Community import"
+            }
+          ],
+          "Directory code:": [
+            "02.10.00.00",
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=02*&repihm=02 Customs Union and free movement of goods",
+              "text": "Customs Union and free movement of goods"
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=0210*&repihm=0210 General customs rules",
+              "text": "General customs rules"
+            },
+            "02.10.30.00",
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=02*&repihm=02 Customs Union and free movement of goods",
+              "text": "Customs Union and free movement of goods"
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=0210*&repihm=0210 General customs rules",
+              "text": "General customs rules"
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=021030*&repihm=021030 Definition of declarant",
+              "text": "Definition of declarant"
+            },
+            "02.20.00.00",
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=02*&repihm=02 Customs Union and free movement of goods",
+              "text": "Customs Union and free movement of goods"
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=0220*&repihm=0220 Basic customs instruments",
+              "text": "Basic customs instruments"
+            },
+            "02.30.00.00",
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=02*&repihm=02 Customs Union and free movement of goods",
+              "text": "Customs Union and free movement of goods"
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=0230*&repihm=0230 Application of the Common Customs Tariff",
+              "text": "Application of the Common Customs Tariff"
+            },
+            "02.40.00.00",
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=02*&repihm=02 Customs Union and free movement of goods",
+              "text": "Customs Union and free movement of goods"
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_repertoire&lang=en&rep=0240*&repihm=0240 Specific customs rules",
+              "text": "Specific customs rules"
+            }
+          ]
+        },
+        "path": [
+          "Classifications"
+        ]
+      },
+      {
+        "type": "added",
+        "data": {
+          "Legal basis:": [
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=11997E026",
+              "text": [
+                "11997E026"
+              ]
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=11997E251",
+              "text": [
+                "11997E251"
+              ]
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=11997E133",
+              "text": [
+                "11997E133"
+              ]
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=11997E095",
+              "text": [
+                "11997E095"
+              ]
+            }
+          ],
+          "Treaty:": [
+            "European Community"
+          ],
+          "Instruments cited:": [
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=31996Y1107(01)",
+              "text": "31996Y1107(01)"
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=31999D0468",
+              "text": "31999D0468"
+            }
+          ],
+          "Consolidated versions:": [],
+          "Amended by:": [
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=32000R2700R(02)",
+              "text": [
+                "32000R2700R(02)"
+              ]
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=32000R2700R(01)",
+              "text": [
+                "32000R2700R(01)"
+              ]
+            }
+          ],
+          "Affected by case:": [],
+          "Subsequent related instruments:": [],
+          "Amendment to:": [
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=51998PC0226",
+              "text": [
+                "51998PC0226",
+                "Adoption"
+              ]
+            },
+            {
+              "url": "http://eur-lex.europa.eu/Result.do?RechType=RECH_celex&lang=en&ihmlang=en&code=31992R2913",
+              "text": [
+                "31992R2913",
+                "Amendment Replacement Article 115. 4 from 19/12/2000",
+                "Amendment Completion Article 117. C from 19/12/2000",
+                "Amendment Replacement Article 124 from 19/12/2000",
+                "Amendment Replacement Article 131 from 19/12/2000",
+                "Amendment Replacement Article 133. E from 19/12/2000",
+                "Amendment Replacement Article 142 from 19/12/2000",
+                "Amendment Completion Article 153 from 19/12/2000",
+                "Amendment Replacement Article 167. 3 from 19/12/2000",
+                "Amendment Replacement Article 168. 1 from 19/12/2000",
+                "Amendment Addition Article 168 BI from 19/12/2000",
+                "Amendment Replacement Article 212 BI from 19/12/2000",
+                "Amendment Addition Article 215. 4 from 19/12/2000",
+                "Amendment Amendment Article 220. 2 from 19/12/2000",
+                "Amendment Replacement Article 221. 3 from 19/12/2000",
+                "Amendment Addition Article 221. 4 from 19/12/2000",
+                "Amendment Replacement Article 222. 2 from 19/12/2000",
+                "Amendment Replacement Article 247 from 19/12/2000",
+                "Amendment Addition Article 247 BI from 19/12/2000",
+                "Amendment Replacement Article 248 from 19/12/2000",
+                "Amendment Addition Article 248 BI from 19/12/2000",
+                "Amendment Replacement Article 249 from 19/12/2000",
+                "Amendment Replacement Article 35. 1 from 19/12/2000",
+                "Amendment Replacement Article 4. 24 from 19/12/2000",
+                "Amendment Addition Article 77. 2 from 19/12/2000",
+                "Amendment Article 77 DEVIENT Article 77. 1"
+              ]
+            }
+          ]
+        },
+        "path": [
+          "Relationship between documents"
+        ]
+      },
+      {
+        "type": "added",
+        "data": "Regulation (EC) No 2700/2000 of the European Parliament and of the Council of 16 November 2000 amending Council Regulation (EEC) No 2913/92 establishing the Community Customs Code",
+        "path": [
+          "title"
+        ]
+      },
+      {
+        "type": "added",
+        "data": {
+          "Form:": [
+            "Regulation"
+          ],
+          "Author:": [
+            "European Parliament, Council"
+          ],
+          "Addressee:": [],
+          "Additional information:": []
+        },
+        "path": [
+          "Miscellaneous information"
+        ]
+      },
+      {
+        "type": "added",
+        "data": {
+          "sector": "3",
+          "lang": "EN",
+          "doctype": "R",
+          "celexid": "CELEX:32000R2700:EN",
+          "refno": "2700",
+          "year": "2000",
+          "typeDesc": "Regulations",
+          "chapter": [
+            [
+              "01",
+              "General, financial and institutional matters"
+            ],
+            [
+              "01.07",
+              "Statistics"
+            ]
+          ]
+        },
+        "path": [
+          "id"
+        ]
+      }
+    ]
+  },
+  "id": {
+    "sector": "3",
+    "lang": "EN",
+    "doctype": "R",
+    "celexid": "CELEX:32000R2700:EN",
+    "refno": "2700",
+    "year": "2000",
+    "typeDesc": "Regulations",
+    "chapter": [
+      [
+        "01",
+        "General, financial and institutional matters"
+      ],
+      [
+        "01.07",
+        "Statistics"
+      ]
+    ]
+  }
+}
